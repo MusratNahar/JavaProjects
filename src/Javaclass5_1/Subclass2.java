@@ -1,4 +1,4 @@
-package Javaclass5;
+package Javaclass5_1;
 // Class Polymorphism
 public class Subclass2 extends Parent {
 

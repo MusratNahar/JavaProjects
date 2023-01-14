@@ -1,4 +1,4 @@
-package Javaclass5;
+package Javaclass5_1;
 //class & object
 public class Class_Object {
     int Age;

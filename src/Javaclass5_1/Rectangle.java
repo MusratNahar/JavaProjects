@@ -1,4 +1,4 @@
-package Javaclass5;
+package Javaclass5_1;
 //Multilevel inheritance
 class Rectangle extends Shape {
     public void area() {

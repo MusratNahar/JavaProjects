@@ -1,4 +1,4 @@
-package Javaclass5;
+package Javaclass5_1;
 //Hierarchical  inheritance
 public class Test_Mathematics {
     public static void main(String[] args) {

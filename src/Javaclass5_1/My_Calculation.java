@@ -1,4 +1,4 @@
-package Javaclass5;
+package Javaclass5_1;
 //Inheritence,Single inheritance
 public class My_Calculation extends Calculation {
     public void multiplication(int x, int y) {

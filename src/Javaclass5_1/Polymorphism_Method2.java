@@ -1,4 +1,4 @@
-package Javaclass5;
+package Javaclass5_1;
 //Polymorphism     Method Polymorphism
 public class Polymorphism_Method2 {
     public static void main(String[] args)

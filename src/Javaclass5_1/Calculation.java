@@ -1,4 +1,4 @@
-package Javaclass5;
+package Javaclass5_1;
 //Inheritence,Single inheritance
 public class Calculation {
     int z;

@@ -1,4 +1,4 @@
-package Javaclass5;
+package Javaclass5_1;
 //Polymorphism     Method Polymorphism
 public class Polymorphism_Method {
     static int Multiply(int a, int b)

@@ -1,4 +1,4 @@
-package Javaclass5;
+package Javaclass5_1;
 //Multilevel inheritance
 public class Shape {
     public void display() {

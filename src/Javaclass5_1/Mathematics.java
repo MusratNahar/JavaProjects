@@ -1,4 +1,4 @@
-package Javaclass5;
+package Javaclass5_1;
 //Hierarchical  inheritance
 public class Mathematics {
     public void print_A() {
